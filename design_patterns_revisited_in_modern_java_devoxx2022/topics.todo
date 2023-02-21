@@ -1,0 +1,22 @@
+Design Patterns Revisited in Modern Java
+Venkat Subramaniam
+http://www.agiledeveloper.com
+venkats@agiledeveloper.com
+Twitter: @venkat_s
+
+Topics:
+✔Design and design patterns
+✔Optional: patterns and anti-patterns
+✔Iterator pattern
+✔Lightweight Strategy
+✔Factory Method using default methods
+✔Laziness using Lambda Expressions
+✔Decorator using Lambda Expressions
+✔Creating Fluent interfaces
+✔Execute Around Method Pattern
+✔Creating a Closed Hierarchy with sealed
+✔Summary
+
+Download:
+https://agiledeveloper.com/downloads.html
+
